@@ -1,14 +1,13 @@
 {
-  "name": "johny-five-test",
+  "name": "leds-xbox",
   "version": "0.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index"
   },
   "author": "ertrzyiks <mateusz.derks@gmail.com>",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "johnny-five": "^0.8.38",
     "xbox-controller": "^0.5.0"
