@@ -1,0 +1,15 @@
+{
+  "name": "rgb-anode",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "ertrzyiks <mateusz.derks@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "animation": "^0.1.3",
+    "johnny-five": "^0.8.38"
+  }
+}
