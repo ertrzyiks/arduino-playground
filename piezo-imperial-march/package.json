@@ -1,0 +1,14 @@
+{
+  "name": "piezo-impertial-march",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "ertrzyiks <mateusz.derks@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "johnny-five": "^0.8.38"
+  }
+}
